@@ -2,8 +2,8 @@
 
 int main()
 {
-  char municipality[50];
-  char mayor[50];
+  char municipality[35];
+  char mayor[25];
   int population;
 
   printf(" Municipality Financial Management system\n\n");
